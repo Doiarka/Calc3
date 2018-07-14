@@ -1,0 +1,7 @@
+C:\Users\zibo9\Google Drive\VSProjects\Calc3\Calc3\bin\Debug\Calc3.exe.config
+C:\Users\zibo9\Google Drive\VSProjects\Calc3\Calc3\bin\Debug\Calc3.exe
+C:\Users\zibo9\Google Drive\VSProjects\Calc3\Calc3\bin\Debug\Calc3.pdb
+C:\Users\zibo9\Google Drive\VSProjects\Calc3\Calc3\obj\Debug\Calc3.csprojAssemblyReference.cache
+C:\Users\zibo9\Google Drive\VSProjects\Calc3\Calc3\obj\Debug\Calc3.csproj.CoreCompileInputs.cache
+C:\Users\zibo9\Google Drive\VSProjects\Calc3\Calc3\obj\Debug\Calc3.exe
+C:\Users\zibo9\Google Drive\VSProjects\Calc3\Calc3\obj\Debug\Calc3.pdb
